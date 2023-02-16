@@ -14,8 +14,8 @@
 
 # Technologies
 <div style="display: flex; flex-direction: row">
-https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor
-https://icongr.am/devicon/react-original.svg?size=60&color=currentColor
+<img src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" alt="typescript-logo"/>
+<img src="https://icongr.am/devicon/react-original.svg?size=60&color=currentColor" alt="react-logo" />
             </div>
 
 👩‍💻 DEMO: (not yet)
